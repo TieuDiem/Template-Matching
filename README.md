@@ -28,7 +28,7 @@ p(x,y)  = \frac{\sum_{} [(x_i-x)*(y_i-y)]}{\delta{x}*\delta{y}}
 Template and result after template matching
 <div align="center">
 <p>
-<img src="template.jpg" width="400" height="auto"/> 
+<img src="template.jpg" width="100" height="auto"/> 
 <img src="images/result.png" width="400" height="auto"/> 
 </p>
 </div>
